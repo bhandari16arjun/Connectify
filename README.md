@@ -1,6 +1,4 @@
 # Connectify
-Certainly, here is a refined README file incorporating the detailed development steps and enhancements discussed earlier:
-
 Connectify - Group Chat Application
 
 This repository contains the backend and frontend implementation for a real-time group chat application built with Spring Boot, Spring WebSocket, MongoDB, and React.js.
